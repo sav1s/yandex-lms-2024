@@ -1,0 +1,6 @@
+name = input()
+surname = input()
+gg = input()
+print(name)
+print(surname)
+print(gg)
